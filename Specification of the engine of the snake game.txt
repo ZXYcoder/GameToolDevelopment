@@ -1,0 +1,45 @@
+Specification of the engine of the snake game
+
+customer 
+          gamer/producer
+
+persona  
+          The student of design institute XiaoMing is  very curious about the snake game 
+	  in his childhood, but the current  market is unable to meet the requirements of the snake
+ 	  game. Xiao Ming wants to design a new Snake game according to his own preferences.
+	  Although the design ability of Xiao Ming is very strong, but his coding ability 
+          is very poor, so Xiao Ming need a snake game engine to help him complete the snake game 
+          design and Implementation. To this end, Xiao Ming can pay 100 yuan for the game engine providers
+
+pain pionts    
+          Xiao Ming is infatuated with snake game.Although the design desire is very
+  	  strong , the coding ability is very poor.
+
+user scenarios 
+          Xiao Ming opened the game engine, according to their preferences to set the
+ 	  various parameters of the game
+	  Finally, the idea of creating a snake game form XiaoMing comes ture, Xiao Ming
+  	  played for a while, and very happy about it.
+
+goals
+          According to own prefence to design the snake game
+
+non_goals
+          Easy to use
+
+interactions
+          Set game parameters: snake length, shape,
+          Color, size, map, difficulty, speed, etc.
+
+open issues/risk
+          Game engine performance is limited, the larger data will collapse.
+
+priority
+          P1 is to implement the escape scenario.
+
+MileStone
+          March 15st  Prototype
+          March 28st  Refined Design
+          April 10st  Implementation
+          April 20st  Best Test
+          April 30st  RTM
